@@ -4,6 +4,7 @@ examplecode
 example
 sample
 **/.DS_Store
+**/node_modules
 
 .vagrant/machines/default
 
